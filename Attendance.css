@@ -1,0 +1,55 @@
+body{
+    background: blue;
+}
+h1
+{
+   background-color: cornsilk;
+   height: auto;
+   width: fit-content;
+   margin-left: 570px;
+   margin-top: 8px;
+   margin-bottom: 8px;
+   padding: 12px;
+   border-radius: 30px;
+   color:maroon;
+    
+}
+#myButton
+{
+
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+
+    
+    
+}
+#mail
+{
+    background-color: chartreuse;
+    width: 240px;
+    height: auto;
+    text-align: center;
+    padding: 8px;
+    font-size: 40px;
+    color:crimson;
+    font-weight:900;
+    text-decoration: none;
+    border-radius: 40px;
+}
+#myTable
+{
+    font-size: 28px;
+    font-weight: 600;
+}
+.start
+{
+    height: 30px;
+    width: 80px;
+}
+.end
+{
+    height: 30px;
+    width: 80px;
+}
